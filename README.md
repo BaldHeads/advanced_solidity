@@ -20,6 +20,32 @@ The token sale contract inherits the following OpenZeppelin Contracts:
 - [RefundablePostDeliveryCrowdsale](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/release-v2.5.0/contracts/crowdsale/distribution/RefundablePostDeliveryCrowdsale.sol)
 
 
+### Deployed Contracts
+![Puppercoin, PupperSale, & Deployer Contracts](screenshots\contractsdeployed.JPG)
+
+Buying tokens on the local network and raising 1 wei
+![](screenshots\buytokenlocal.JPG)
+
+
+![](screenshots\oneweilocal.JPG)
+
+Reaching the 300 wei cap (could switch the rate here or add zeros to goal/cap for params after new PupperCoinSale ~line 53)
+
+![](screenshots\capreachedlocal.JPG)
+
+Adding the custom token to metamask & mycrypto
+
+![MetaMask](screenshots\addtokenmetamask.JPG) 
+
+![MyCrypto](screenshots\mycryptotokenbalance.JPG)
+
+
+Sending Txns in metamask Local
+
+![](screenshots\sendtxnmetamask.JPG)
+![](screenshots\sendtxnmetamaskreceipt.JPG)
+
+
 
 
 
